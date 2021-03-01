@@ -8,7 +8,7 @@ I love code!
 ## 🤐 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3.7.8-green.svg)
-![CSharp](https://img.shields.io/badge/C#-9.0-ff69b4.svg)
+![CSharp](https://img.shields.io/badge/CSharp-9.0-ff69b4.svg)
 ![MATLAB](https://img.shields.io/badge/MATLAB-2020b-orange.svg)
 ![C](https://img.shields.io/badge/C-17-blue.svg)
 ![CPP](https://img.shields.io/badge/C++-14-503040.svg)
