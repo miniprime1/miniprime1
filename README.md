@@ -5,7 +5,7 @@ I love code!
 ![Stats](https://github-readme-stats.vercel.app/api?username=miniprime1&count_private=true)
 
 
-## 🤐 Programming Languages
+## 📗 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3.7.8-green.svg)
 ![CSharp](https://img.shields.io/badge/CSharp-9.0-ff69b4.svg)
