@@ -8,10 +8,10 @@ I love code!
 ## 🤐 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3.7.8-green.svg)
-![CSharp](https://img.shields.io/badge/C#-9.0-purple.svg)
+![CSharp](https://img.shields.io/badge/C#-9.0-ff69b4.svg)
 ![MATLAB](https://img.shields.io/badge/MATLAB-2020b-orange.svg)
 ![C](https://img.shields.io/badge/C-17-blue.svg)
-![CPP](https://img.shields.io/badge/C++-14-blue.svg)
+![CPP](https://img.shields.io/badge/C++-14-503040.svg)
 ![Java](https://img.shields.io/badge/Java-14-red.svg)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=miniprime1&count_private=true)
