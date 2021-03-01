@@ -13,7 +13,13 @@ I love code!
 ![CPP](https://img.shields.io/badge/C++-14-503040.svg)
 ![Java](https://img.shields.io/badge/Java-14-red.svg)
 
+## 📘 Bio
 
+- 🏫 I'm currently learning at **[인천연송초등학교](http://yeonsong.icees.kr/)**
+- 🌍 I love to watching YouTube
+- 💬 I love to talking about funny story
+- 🌱 Learning developing with C/C++
+- 🤔 I'm student and 11 years old (2009)
 
 <!--
 **miniprime1/miniprime1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
