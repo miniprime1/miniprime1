@@ -12,7 +12,7 @@ I love code!
 ![MATLAB](https://img.shields.io/badge/MATLAB-2020b-orange.svg)
 ![C](https://img.shields.io/badge/C-17-blue.svg)
 ![CPP](https://img.shields.io/badge/C++-14-503040.svg)
-![Java](https://img.shields.io/badge/Java-14-red.svg)
+![Java](https://img.shields.io/badge/Java-16-red.svg)
 
 
 ## 📘 Bio
