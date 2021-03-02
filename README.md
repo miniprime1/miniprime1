@@ -11,12 +11,12 @@ I love code!
 
 ## 📗 Programming Languages
 
-[![Python](https://img.shields.io/badge/Python-3.7.8-green.svg)](https://www.python.org/)
-[![CSharp](https://img.shields.io/badge/CSharp-9.0-ff69b4.svg)](https://dotnet.microsoft.com/)
-[![MATLAB](https://img.shields.io/badge/MATLAB-2020b-orange.svg)](https://www.mathworks.com/products/matlab.html)
-[![C](https://img.shields.io/badge/C-17-blue.svg)](https://devdocs.io/c/)
-[![CPP](https://img.shields.io/badge/C++-14-503040.svg)](https://devdocs.io/cpp/)
-[![Java](https://img.shields.io/badge/Java-16-red.svg)](https://www.java.com/ko/)
+ - [![Python](https://img.shields.io/badge/Python-3.7.8-green.svg)](https://www.python.org/)
+ - [![CSharp](https://img.shields.io/badge/CSharp-9.0-ff69b4.svg)](https://dotnet.microsoft.com/)
+ - [![MATLAB](https://img.shields.io/badge/MATLAB-2020b-orange.svg)](https://www.mathworks.com/products/matlab.html)
+ - [![C](https://img.shields.io/badge/C-17-blue.svg)](https://devdocs.io/c/)
+ - [![CPP](https://img.shields.io/badge/C++-14-503040.svg)](https://devdocs.io/cpp/)
+ - [![Java](https://img.shields.io/badge/Java-16-red.svg)](https://www.java.com/ko/)
 
 
 ## 📘 Bio
