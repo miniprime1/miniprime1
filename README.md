@@ -17,7 +17,7 @@ I love code!
 
 ## 📘 Bio
 
-- 🏫 I'm currently learning at **[인천연송초등학교](http://yeonsong.icees.kr/)**
+- 🏫 I'm currently learning at **[Incheon Yeonsong Elementary School](http://yeonsong.icees.kr/)**
 - 🌍 I love to watching **[YouTube](https://www.youtube.com/)**
 - 💬 I love to talking about **[funny story](http://nope.org/)**
 - 🌱 Learning developing with **[C/C++](https://devdocs.io/cpp/)**
