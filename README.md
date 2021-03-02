@@ -3,7 +3,7 @@
 I love code!
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=miniprime1&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miniprime1&layout=compact)
 
 
 ## 📗 Programming Languages
