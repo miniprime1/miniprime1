@@ -2,7 +2,7 @@
 
 I love code!
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kairess&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/miniprime1)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miniprime1&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/miniprime1)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miniprime1&layout=compact)](https://github.com/miniprime1)
 
