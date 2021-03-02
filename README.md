@@ -19,9 +19,9 @@ I love code!
 
 - 🏫 I'm currently learning at **[인천연송초등학교](http://yeonsong.icees.kr/)**
 - 🌍 I love to watching **[YouTube](https://www.youtube.com/)**
-- 💬 I love to talking about **funny story**
+- 💬 I love to talking about **[funny story](http://nope.org/)**
 - 🌱 Learning developing with **[C/C++](https://docs.microsoft.com/en-us/cpp/?view=msvc-160)**
-- 🤔 I'm student and **11 years old (2009)**
+- 🤔 I'm student and **[11 years old (2009)](http://nope.org/)**
 
 <!--
 **miniprime1/miniprime1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
