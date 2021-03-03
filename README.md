@@ -11,10 +11,10 @@ I love code!
 
  - [![Python](https://img.shields.io/badge/Python-3.7.8-green.svg)](https://www.python.org/)
  - [![CSharp](https://img.shields.io/badge/CSharp-9.0-813196.svg)](https://dotnet.microsoft.com/)
- - [![MATLAB](https://img.shields.io/badge/MATLAB-2020b-orange.svg)](https://www.mathworks.com/products/matlab.html)
+ - [![MATLAB](https://img.shields.io/badge/MATLAB-2020b-red.svg)](https://www.mathworks.com/products/matlab.html)
  - [![C](https://img.shields.io/badge/C-17-689dd1.svg)](https://devdocs.io/c/)
  - [![CPP](https://img.shields.io/badge/C++-14-0b5b9a.svg)](https://devdocs.io/cpp/)
- - [![Java](https://img.shields.io/badge/Java-16-e56f1e.svg)](https://www.java.com/ko/)
+ - [![Java](https://img.shields.io/badge/Java-16-orange.svg)](https://www.java.com/ko/)
 
 
 ## 📘 Bio
