@@ -5,8 +5,8 @@
 <br><br>
 <strong>♡Kyumin♡</strong><br><br>
 Hello, I'm Kyumin [miniprime1].<br>
-I am a fan of programming, game, and movie<br>
-I’m also interested in video games.
+I am a fan of programming, games.<br>
+I’m also interested in movies.
 
 
 <br>
