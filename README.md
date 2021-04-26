@@ -4,7 +4,7 @@ I love code!
 
 ## 📕 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miniprime1&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/miniprime1)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=miniprime1&layout=compact&bg_color=330,f2ffe6,e6ffff&langs_count=9&hide=vhdl,verilog,systemverilog&custom_title=iBug%27s%20Top%20Languages](https://github.com/miniprime1)
 
 
 ## 📗 Programming Languages
