@@ -1,30 +1,29 @@
-<div align = "center">
+<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=200&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=ffb6c1&height=200&section=header&fontSize=90)
 
-<br><br>
+<br/><br/>
 <strong>♡Kyumin♡</strong><br><br>
 Hello, I'm Kyumin [miniprime1].<br>
 I am a fan of programming and games.<br>
 I’m also interested in movies.
 
-
-<br>
-
-●●●
-
-<br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/miniprime1&icon=&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:godbros.miniprime@gmail.com)](mailto:godbros.miniprime@gmail.com)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:miniprime@outlook.com)](mailto:miniprime@outlook.com)
-[![iCloud](https://img.shields.io/badge/iCloud-3693F3?style=flat&logo=iCloud&logoColor=white&link=mailto:godbros.miniprime@icloud.com)](mailto:godbros.miniprime@icloud.com)
-
-<br>
+<br/>
 
 ●●●
 
-<br>
+<br/>
+  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)]()
+![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:godbros.miniprime@gmail.com)
+![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:miniprime@outlook.com)
+![iCloud](https://img.shields.io/badge/iCloud-3693F3?style=flat&logo=iCloud&logoColor=white&link=mailto:godbros.miniprime@icloud.com)
+
+<br/>
+
+●●●
+
+<br/>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)](https://devdocs.io/c/)<br>
@@ -37,11 +36,8 @@ I’m also interested in movies.
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://devdocs.io/javascript/)
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/)
 
-<br><br>
+<br/><br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=83dcb7&height=200&section=footer&fontSize=90)
 
 </div>
-
-
-
