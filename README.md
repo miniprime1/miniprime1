@@ -5,8 +5,7 @@
 <br/><br/>
 <strong>♡Kyumin♡</strong><br><br>
 Hello, I'm Kyumin [miniprime1].<br>
-I am a fan of programming and games.<br>
-I’m also interested in movies.
+I’m interested in math, and Popcat.
 
 <br/>
 
