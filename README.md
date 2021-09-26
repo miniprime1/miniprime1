@@ -13,11 +13,8 @@ I’m also interested in movies.
 ●●●
 
 <br/>
-  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/miniprime1)
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:godbros.miniprime@gmail.com)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:miniprime@outlook.com)
-[![about me.](https://img.shields.io/badge/about%20me.-00A98F?style=flat&logo=About.me&logoColor=white)](https://ivory-guanaco-521.notion.site/about-me-ed4fad4db8ec4a77b1d6037c0edf922b)
+
+[![Notion](https://img.shields.io/badge/about%20me.-000000?style=flat&logo=notion&logoColor=white)](https://ivory-guanaco-521.notion.site/about-me-ed4fad4db8ec4a77b1d6037c0edf922b)
 
 <br/>
 
