@@ -4,8 +4,8 @@
 
 <br/><br/>
 <strong>♡Kyumin♡</strong><br><br>
-Hello, I'm Kyumin [miniprime1].<br>
-I’m interested in math, and Popcat.
+Hello, I'm Kyumin.<br>
+I’m interested in Popcat.
 
 <br/>
 
