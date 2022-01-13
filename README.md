@@ -5,7 +5,7 @@
 <br/><br/>
 <strong>♡Kyumin♡</strong><br><br>
 Hello, I'm Kyumin.<br>
-I’m interested in Popcat.
+I’m interested in Math, and Programming.
 
 <br/>
 
