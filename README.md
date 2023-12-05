@@ -3,13 +3,13 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=ffb6c1&height=200&section=header&fontSize=90)
 
 <br/><br/>
-<strong>♡Kyumin♡</strong><br><br>
-Hello, I'm Kyumin.<br>
-I’m interested in Math, and Programming.
+<strong>Kyumin Nam</strong> <br><br>
+Hello, I'm Kyumin. <br>
+I’m interested in mathematics and programming. <br>
 
 <br/>
 
-●●●
+● ● ●
 
 <br/>
 
@@ -18,7 +18,7 @@ I’m interested in Math, and Programming.
 
 <br/>
 
-●●●
+● ● ●
 
 <br/>
 
