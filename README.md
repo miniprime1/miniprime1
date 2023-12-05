@@ -25,7 +25,7 @@ I’m interested in Math, and Programming.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)](https://devdocs.io/c/)<br>
-[![CS](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=C-Sharp&logoColor=white)](https://dotnet.microsoft.com/)
+[![CS](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white)](https://dotnet.microsoft.com/)
 [![Octave](https://img.shields.io/badge/Octave-0790C0?style=flat-square&logo=Octave&logoColor=white)](https://www.gnu.org/software/octave/index)<br>
 
 <br/><br/>
